@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My WordPress	</title>
-	<atom:link href="http://localhost/myproject/wordpress-5.8/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://vinh-2007.github.io/mywordpres</link>
+	Các phản hồi luận về: Top 5 những địa điểm du lịch ở Việt Nam	</title>
+	<atom:link href="http://localhost/myproject/wordpress-5.8/wordpress/top-10-nhung-dia-diem-du-lich-o-viet-nam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vinh-2007.github.io/mywordpres/top-10-nhung-dia-diem-du-lich-o-viet-nam/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 15 Sep 2021 03:57:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
